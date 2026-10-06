@@ -1,0 +1,3 @@
+:HL["/muscat-amusement-park/_next/static/css/3cf08bee09bfda2d.css","style"]
+:HL["/muscat-amusement-park/_next/static/css/82ab78eb8b573e81.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"fy1Gq54Wn4J96D-ukwHx9"}
